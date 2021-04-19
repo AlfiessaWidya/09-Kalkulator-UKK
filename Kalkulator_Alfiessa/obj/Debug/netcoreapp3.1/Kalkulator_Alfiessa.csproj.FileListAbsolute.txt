@@ -1,0 +1,15 @@
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\bin\Debug\netcoreapp3.1\Kalkulator_Alfiessa.exe
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\bin\Debug\netcoreapp3.1\Kalkulator_Alfiessa.deps.json
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\bin\Debug\netcoreapp3.1\Kalkulator_Alfiessa.runtimeconfig.json
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\bin\Debug\netcoreapp3.1\Kalkulator_Alfiessa.runtimeconfig.dev.json
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\bin\Debug\netcoreapp3.1\Kalkulator_Alfiessa.dll
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\bin\Debug\netcoreapp3.1\Kalkulator_Alfiessa.pdb
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.csprojAssemblyReference.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.AssemblyInfoInputs.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.AssemblyInfo.cs
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.csproj.CoreCompileInputs.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.dll
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.pdb
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.genruntimeconfig.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.Form1.resources
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan_Kalkulator\Kalkulator_Alfiessa\Kalkulator_Alfiessa\obj\Debug\netcoreapp3.1\Kalkulator_Alfiessa.csproj.GenerateResource.cache
